@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "firstname": "Avinash",
+      "lastname": "kumar",
+      "birthdate": "1999-01-07",
+      "gender": "male",
+      "education": "Graduation",
+      "company": "Trianz",
+      "jobExperience": 2,
+      "salary": 6,
+      "profile": "Image.jpg",
+      "id": 1
+    },
+    {
+      "firstname": "Avinash ",
+      "lastname": "kumar",
+      "birthdate": "1998-01-07",
+      "gender": "male",
+      "education": "Graduation",
+      "company": "Trianz",
+      "jobExperience": 2,
+      "salary": 10,
+      "profile": "Image1.png",
+      "id": 2
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
