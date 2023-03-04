@@ -25,3 +25,8 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+
+## Important Points
+This project is created on Angular Framework in which I've used JSON Server as API. 
+use below command to run the json server on your machine.  ["json-server --watch db.json"]
